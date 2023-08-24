@@ -31,7 +31,7 @@
                             </div>
                             <div class="form-group d-flex">
                                 <div class="col-sm-6 d-flex">
-                                    <input type="text" name="codigocliente" value="${c.getDni()}" class="form-control" placeholder="codigo">
+                                    <input type="text" name="codigocliente" value="${c.getDni()}" class="form-control" placeholder="DNI">
                                     <input type="submit" name="accion" value="BuscarCliente" class="btn btn-outline-info">
                                 </div>
                                 <div class="col-sm-6">
