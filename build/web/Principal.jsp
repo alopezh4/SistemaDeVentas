@@ -52,7 +52,7 @@
                 </div>
             </div>
         </nav>
-        <h1>Bienvenido al sistema de ventas</h1>
+        <h1>Bienvenido al Sistema de Ventas</h1>
         <div class="m-4" style="height: 550px">
             <iframe name="myFrame" style="height: 100% ; width: 100%" >
 
